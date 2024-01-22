@@ -1,7 +1,5 @@
 This repository was created for the site that shows my portfolios. My portfolio site link is:
-:point_down:<br></br>
-[Microsoft Contoso Sales Report](https://app.powerbi.com/view?r=eyJrIjoiNzkyZmM2ZTMtNmZiOC00ZDM0LTlhYzYtMTQ5M2EzOTRjMzA5IiwidCI6IjQwM2RmZTQxLWU5NmMtNDkwYy05NTZmLWY0NzZjMGI5MDA1OSIsImMiOjl9&embedImagePlaceholder=true)
-<br></br>
+https://mehmetcahitaydin.onrender.com
 
 Directory Structure
 -------------------
