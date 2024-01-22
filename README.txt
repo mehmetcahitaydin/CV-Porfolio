@@ -1,3 +1,6 @@
+This repository was created for the site that shows my portfolios. My portfolio site link is:
+:point_down:<br></br>
+[MyPortfolio Site](https://mehmetcahitaydin.onrender.com)<br></br>
 Directory Structure
 -------------------
 css\              - Stylesheets CSS files for the template.
